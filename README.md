@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=_000000&height=100&section=header&text=YongGu&fontColor=C30452&fontAlign=18&fontSize=70&animation=twinkling)
 
-<h3 align="center">💪&nbsp;&nbsp;Skills</h3>
-<p align="center">
+<h3 align="left">💪&nbsp;&nbsp;Skills</h3>
+<p align="left">
   <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/css-47b8e0?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
@@ -14,8 +14,8 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 </p>
 
-<h3 align="center">🤖&nbsp;&nbsp;Me</h3>
-<p align="center">
+<h3 align="left">🤖&nbsp;&nbsp;Me</h3>
+<p align="left">
   <a href="https://wonderfulharu.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Blog-C30452?style=flat-square&logo=Houzz&logoColor=fafafa"/>
   </a>
