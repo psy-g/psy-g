@@ -1,3 +1,15 @@
+<p>
+  <a href="https://wonderfulharu.tistory.com" target="_blank">
+    <img src="https://img.shields.io/badge/Blog-C30452?style=flat-square&logo=Houzz&logoColor=fafafa"/>
+  </a>
+  <a href="mailto:psykyg@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-30A9DE?style=flat-square&logo=Gmail&logoColor=fafafa"/>
+  </a>
+  <a href="https://github.com/psy-g" target="_blank">
+    <img src="https://img.shields.io/badge/Github-008c9e?style=flat-square&logo=Github&logoColor=fafafa"/>
+  </a>  
+</p>
+
 ### Hi there 👋
 
 <!--
