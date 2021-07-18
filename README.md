@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=soft&color=_000000&height=100&section=header&text=YongGu&fontColor=C30452&fontAlign=18&fontSize=70&animation=twinkling) -->
 
-# YG 🤔
+# YongGu 🤔
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpsy-g%2Fhit-counter&count_bg=%23000000&title_bg=%23C30452&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <a href="https://wonderfulharu.tistory.com/" target="_blank">
   <img src="https://img.shields.io/badge/Blog-C30452?style=flat-square&logo=Houzz&logoColor=fafafa"/>
@@ -14,7 +14,7 @@
 
 ### Who am I
 - 🌱 &nbsp;I’m currently learning `JavaScript`, `Algorithm`
-- 🎓 &nbsp;I majored in Business
+- 🎓 &nbsp;I majored in Business & Information System
 
 ### Skills
 - <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/css-47b8e0?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
