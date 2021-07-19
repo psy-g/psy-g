@@ -23,7 +23,7 @@
 
 ### What I Like
 - ⚾ &nbsp;Baseball Sabermetrics
-- 🎥 &nbsp;Drama
+<!-- - 🎥 &nbsp;Drama -->
 
 <!-- <h3 align="left">💪&nbsp;&nbsp;Skills</h3>
 <p align="left">
