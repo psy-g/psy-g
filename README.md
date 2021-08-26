@@ -14,7 +14,7 @@
 
 ### Who am I
 - 🌱 &nbsp;I’m currently learning `JavaScript`, `Algorithm`
-- 🎓 &nbsp;I majored in Business & Information System
+<!-- - 🎓 &nbsp;I majored in Business & Information System -->
 
 ### Skills
 - <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/css-47b8e0?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
