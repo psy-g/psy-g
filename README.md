@@ -13,14 +13,18 @@
 </a>
 
 ### Who am I
-- 🌱 &nbsp;I’m currently learning `JavaScript`, `Algorithm`
+I'm Front-end engineer🎅
+<!-- - 🌱 &nbsp;I’m currently learning `JavaScript`, `Algorithm` -->
 <!-- - 🎓 &nbsp;I majored in Business & Information System -->
 
 ### Skills
-- <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/css-47b8e0?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
+- <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/native-%2320232a.svg?style=flat-square&logo=Android&logoColor=white">
+<!--  <img src="https://img.shields.io/badge/css-47b8e0?style=flat-square&logo=CSS3&logoColor=white"/> -->
+<!-- - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>  -->
 <!-- - <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> -->
-- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>  
-<!-- - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> -->
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>   -->
 
 ### What I Like
 - ⚾ &nbsp;Baseball Sabermetrics
