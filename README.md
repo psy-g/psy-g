@@ -15,11 +15,12 @@
 결과에 만족하지 않고 개선하기 위해 끊임없이 고민하는 `프론트엔드 개발자`
 
 <!-- ### Skills -->
-<h2> Tech Stack 🛠</h2>
+<h2> Tech Stack 🛠</h2> 
 <p align="left">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a> &nbsp
-<img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/native-%2320232a.svg?style=flat-square&logo=Android&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=flat-square&logo=Redux&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/Redux-Saga-999999.svg?style=flat-square&logo=Redux-Saga&logoColor=white"></a> &nbsp
