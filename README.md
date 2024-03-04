@@ -12,7 +12,9 @@
   <img src="https://img.shields.io/badge/Github-008c9e?style=flat-square&logo=Github&logoColor=fafafa"/>
 </a>
 
+<!--
 결과에 만족하지 않고 개선하기 위해 끊임없이 고민하는 `프론트엔드 개발자`
+-->
 
 <!-- ### Skills -->
 <h2> Tech Stack 🛠</h2> 
