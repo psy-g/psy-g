@@ -22,8 +22,10 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
+<img src="https://img.shields.io/badge/Dart-007396?style=flat-square&logo=Dart&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/React-3766AB?style=flat-square&logo=React&logoColor=white"/></a> &nbsp 
-<img src="https://img.shields.io/badge/native-%2320232a.svg?style=flat-square&logo=Android&logoColor=white"></a> &nbsp
+<img src="https://img.shields.io/badge/React-Native-%2320232a.svg?style=flat-square&logo=React&logoColor=white"></a> &nbsp
+<img src="https://img.shields.io/badge/Flutter-C0C0C0?style=flat-square&logo=Flutter&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=flat-square&logo=Redux&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/Redux-Saga-999999.svg?style=flat-square&logo=Redux-Saga&logoColor=white"></a> &nbsp
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
